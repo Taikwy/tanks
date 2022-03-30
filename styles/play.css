@@ -1,10 +1,10 @@
-header{
+/* header{
     text-align: center;
     font-size: 1.5rem;
     width:1200px;
     margin: 0 auto;
     padding-top: 1px;
-}
+} */
 
 body
 {
@@ -29,8 +29,14 @@ body
     height: 980px;
     
     margin: auto;
-    margin-top: 4px;
+    
+    text-align: center;
+    /* margin-top: 4px; */
     /* text-align: center; */
+}
+
+#gameScreen{
+    padding-top: 40px;
 }
 
 #border-top{
@@ -38,22 +44,20 @@ body
     z-index: 2;
 
     top: 0px;
-}
-
-#border-bottom{
+    left:  0px;
+}#border-bottom{
     position: absolute;
     z-index: 2;
 
     bottom: 0px;
-}
-#border-left{
+    left:  0px;
+}#border-left{
     position: absolute;
     z-index: 2;
 
     top: 40px;
     left: 0px;
-}
-#border-right{
+}#border-right{
     position: absolute;
     z-index: 2;
 
