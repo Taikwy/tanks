@@ -31,8 +31,8 @@ body
 a:link{
     text-decoration: none;
     transition: .2s;
-    background-color:white;
-    color: black;
+    background-color:black;
+    color: white;
 }a:visited{
     background-color:black;
     color: white;
