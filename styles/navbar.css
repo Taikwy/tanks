@@ -1,0 +1,129 @@
+.navbar{
+    width: 100%;
+    margin: 8px 0;
+}
+
+.navbarItems {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding: 4px 0;
+
+    /* border: 1px white solid; */
+}
+.navbar #play{
+    background: url(/images/buttons/playbutton.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    width: 208px;
+    height: 92px;
+    margin: auto 8px;
+    /* border: 1px white solid; */
+}.navbar #play:hover{
+    background: url(/images/buttons/playhover.png) no-repeat;
+}.navbar #play.active{
+    background: url(/images/buttons/playactive.png) no-repeat;
+}
+
+.navbar #about{
+    background: url(/images/buttons/aboutbutton.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    width: 172px;
+    height: 60px;
+    margin: auto 8px;
+    /* border: 1px white solid; */
+}.navbar #about:hover{
+    background: url(/images/buttons/abouthover.png) no-repeat;
+}.navbar #about.click{
+    background: url(/images/buttons/aboutclick.png) no-repeat;
+}.navbar #about.active{
+    background: url(/images/buttons/aboutactive.png) no-repeat;
+}
+
+.navbar #help{
+    background: url(/images/buttons/helpbutton.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    width: 172px;
+    height: 60px;
+    margin: auto 8px;
+    /* border: 1px white solid; */
+}.navbar #help:hover{
+    background: url(/images/buttons/helphover.png) no-repeat;
+}.navbar #help.active{
+    background: url(/images/buttons/helpactive.png) no-repeat;
+}
+
+.navbar #info{
+    background: url(/images/buttons/infobutton.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    width: 172px;
+    height: 60px;
+    margin: auto 8px;
+    /* border: 1px white solid; */
+}.navbar #info:hover{
+    background: url(/images/buttons/infohover.png) no-repeat;
+}.navbar #info.active{
+    background: url(/images/buttons/infoactive.png) no-repeat;
+}
+
+.navbar #faq{
+    background: url(/images/buttons/faqbutton.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    width: 172px;
+    height: 60px;
+    margin: auto 8px;
+    /* border: 1px white solid; */
+}.navbar #faq:hover{
+    background: url(/images/buttons/faqhover.png) no-repeat;
+}.navbar #faq.active{
+    background: url(/images/buttons/faqactive.png) no-repeat;
+}
+
+.navbar #credits{
+    background: url(/images/buttons/creditsbutton.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    width: 172px;
+    height: 60px;
+    margin: auto 8px;
+    /* border: 1px white solid; */
+}.navbar #credits:hover{
+    background: url(/images/buttons/creditshover.png) no-repeat;
+}.navbar #credits.click{
+    background: url(/images/buttons/creditsclick.png) no-repeat;
+}.navbar #credits.active{
+    background: url(/images/buttons/creditsactive.png) no-repeat;
+}
+
+.navbar #tanks{
+    background: url(/images/buttons/tanksbutton.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    width: 172px;
+    height: 60px;
+    margin: 0 8px;
+    /* border: 1px white solid; */
+}.navbar #tanks:hover{
+    background: url(/images/buttons/tankshover.png) no-repeat;
+}.navbar #tanks.click{
+    background: url(/images/buttons/tanksclick.png) no-repeat;
+}.navbar #tanks.active{
+    background: url(/images/buttons/tanksactive.png) no-repeat;
+}
+
+.white{
+    border: 4px white solid;    
+    margin: 0;
+    /* margin-bottom: 16px; */
+}
+
+.gray{
+    border: 2px #4f4f4f solid;    
+    margin: 4px 0;
+    /* margin-bottom: 16px; */
+}

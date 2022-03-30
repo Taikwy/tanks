@@ -1,0 +1,63 @@
+@font-face {
+    font-family: minecraft;
+    src: url(../fonts/Minecraftia-Regular.ttf);
+}
+
+@font-face {
+    font-family: dogicaMono;
+    src: url(../fonts/dogica.ttf);
+}
+
+@font-face {
+    font-family: dogica;
+    src: url(../fonts/dogicapixel.ttf);
+}
+
+body
+{
+    background-color:black;
+    color: white;
+    width: 100%;
+    margin: 0 auto;
+    font-family: dogica;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.centered{
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+    transition: .2s;
+    background-color:white;
+    color: black;
+}a:visited{
+    background-color:black;
+    color: white;
+}a:hover{
+    background-color:white;
+    color: black;
+}
+
+interest-font{
+    color: #ffe600;
+}
+
+enemy-font{
+    color: red;
+}
+
+pixi-font{
+    color: #ff3075;
+}
+howler-font{
+    color: #ebd1b9;
+}
+aseprite-font{
+    color: #bba8bd;
+}
+itch-font{
+    color: #ff6969;
+}

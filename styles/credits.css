@@ -1,0 +1,14 @@
+
+.container .credits .title{
+    background-image: url(../images/borders/credits-title.png);
+    height: 88px;
+    width: 344px;
+}
+.container .credits{
+    margin-top: 72px;
+}
+.credits .border-n-left{
+    width:  calc(50% - 172px);
+}.credits .border-n-right{
+    width:  calc(50% - 172px);
+}

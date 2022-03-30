@@ -1,0 +1,13 @@
+.container .help .title{
+    background-image: url(../images/borders/help-title.png);
+    height: 88px;
+    width: 220px;
+}
+.container .help{
+    margin-top: 72px;
+}
+.help .border-n-left{
+    width:  calc(50% - 115px);
+}.help .border-n-right{
+    width:  calc(50% - 115px);
+}

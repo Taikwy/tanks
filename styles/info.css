@@ -1,0 +1,27 @@
+.container .faq .title{
+    background-image: url(../images/borders/faq-title.png);
+    height: 88px;
+    width: 168px;
+}
+.container .faq{
+    margin-top: 72px;
+}
+.faq .border-n-left{
+    width:  calc(50% - 84px);
+}.faq .border-n-right{
+    width:  calc(50% - 84px);
+}
+
+.container .info .title{
+    background-image: url(../images/borders/info-title.png);
+    height: 88px;
+    width: 220px;
+}
+.container .info{
+    margin-top: 72px;
+}
+.info .border-n-left{
+    width:  calc(50% - 115px);
+}.info .border-n-right{
+    width:  calc(50% - 115px);
+}
