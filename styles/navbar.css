@@ -13,7 +13,7 @@
     /* border: 1px white solid; */
 }
 .navbar #play{
-    background: url(images/buttons/playbutton.png) no-repeat;
+    background: url(../images/buttons/playbutton.png) no-repeat;
     cursor: pointer;
     border: none;
     width: 208px;
@@ -27,7 +27,7 @@
 }
 
 .navbar #about{
-    background: url(images/buttons/aboutbutton.png) no-repeat;
+    background: url(../images/buttons/aboutbutton.png) no-repeat;
     cursor: pointer;
     border: none;
     width: 172px;
@@ -43,7 +43,7 @@
 }
 
 .navbar #help{
-    background: url(images/buttons/helpbutton.png) no-repeat;
+    background: url(/images/buttons/helpbutton.png) no-repeat;
     cursor: pointer;
     border: none;
     width: 172px;
@@ -51,9 +51,9 @@
     margin: auto 8px;
     /* border: 1px white solid; */
 }.navbar #help:hover{
-    background: url(images/buttons/helphover.png) no-repeat;
+    background: url(/images/buttons/helphover.png) no-repeat;
 }.navbar #help.active{
-    background: url(images/buttons/helpactive.png) no-repeat;
+    background: url(/images/buttons/helpactive.png) no-repeat;
 }
 
 .navbar #info{
