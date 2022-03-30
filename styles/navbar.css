@@ -21,9 +21,9 @@
     margin: auto 8px;
     /* border: 1px white solid; */
 }.navbar #play:hover{
-    background: url(/images/buttons/playhover.png) no-repeat;
+    background: url(../images/buttons/playhover.png) no-repeat;
 }.navbar #play.active{
-    background: url(/images/buttons/playactive.png) no-repeat;
+    background: url(../images/buttons/playactive.png) no-repeat;
 }
 
 .navbar #about{
@@ -35,15 +35,15 @@
     margin: auto 8px;
     /* border: 1px white solid; */
 }.navbar #about:hover{
-    background: url(/images/buttons/abouthover.png) no-repeat;
+    background: url(../images/buttons/abouthover.png) no-repeat;
 }.navbar #about.click{
-    background: url(/images/buttons/aboutclick.png) no-repeat;
+    background: url(../images/buttons/aboutclick.png) no-repeat;
 }.navbar #about.active{
-    background: url(/images/buttons/aboutactive.png) no-repeat;
+    background: url(../images/buttons/aboutactive.png) no-repeat;
 }
 
 .navbar #help{
-    background: url(/images/buttons/helpbutton.png) no-repeat;
+    background: url(../images/buttons/helpbutton.png) no-repeat;
     cursor: pointer;
     border: none;
     width: 172px;
@@ -51,13 +51,13 @@
     margin: auto 8px;
     /* border: 1px white solid; */
 }.navbar #help:hover{
-    background: url(/images/buttons/helphover.png) no-repeat;
+    background: url(../images/buttons/helphover.png) no-repeat;
 }.navbar #help.active{
-    background: url(/images/buttons/helpactive.png) no-repeat;
+    background: url(../images/buttons/helpactive.png) no-repeat;
 }
 
 .navbar #info{
-    background: url(/images/buttons/infobutton.png) no-repeat;
+    background: url(../images/buttons/infobutton.png) no-repeat;
     cursor: pointer;
     border: none;
     width: 172px;
@@ -65,9 +65,9 @@
     margin: auto 8px;
     /* border: 1px white solid; */
 }.navbar #info:hover{
-    background: url(/images/buttons/infohover.png) no-repeat;
+    background: url(../images/buttons/infohover.png) no-repeat;
 }.navbar #info.active{
-    background: url(/images/buttons/infoactive.png) no-repeat;
+    background: url(../images/buttons/infoactive.png) no-repeat;
 }
 
 .navbar #faq{
@@ -85,7 +85,7 @@
 }
 
 .navbar #credits{
-    background: url(/images/buttons/creditsbutton.png) no-repeat;
+    background: url(../images/buttons/creditsbutton.png) no-repeat;
     cursor: pointer;
     border: none;
     width: 172px;
@@ -93,15 +93,15 @@
     margin: auto 8px;
     /* border: 1px white solid; */
 }.navbar #credits:hover{
-    background: url(/images/buttons/creditshover.png) no-repeat;
+    background: url(../images/buttons/creditshover.png) no-repeat;
 }.navbar #credits.click{
-    background: url(/images/buttons/creditsclick.png) no-repeat;
+    background: url(../images/buttons/creditsclick.png) no-repeat;
 }.navbar #credits.active{
-    background: url(/images/buttons/creditsactive.png) no-repeat;
+    background: url(../images/buttons/creditsactive.png) no-repeat;
 }
 
 .navbar #tanks{
-    background: url(/images/buttons/tanksbutton.png) no-repeat;
+    background: url(../images/buttons/tanksbutton.png) no-repeat;
     cursor: pointer;
     border: none;
     width: 172px;
